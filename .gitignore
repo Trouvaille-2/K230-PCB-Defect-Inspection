@@ -1,0 +1,13 @@
+datasets/
+runs/
+scripts/runs/
+tmp/
+scripts/tmp/
+*.tar.gz
+*.zip
+__pycache__/
+*.py[cod]
+*.swp
+*.save
+dotnet-install.sh
+scripts/dotnet-install.sh
