@@ -87,7 +87,11 @@ python scripts/compile_pcb_kmodel.py
 
 ## 作者 (Author)
 开发者：Meng Fanhua (孟凡华)
+
 专业背景：山东农业大学 · 人工智能 / 嵌入式控制
+
 研究兴趣：端侧 AI 部署 (Edge AI)、嵌入式 Linux C++、工业通信与运动控制 (Motion Control)
+
 GitHub：@Trouvaille-2
+
 本项目遵守 MIT License 开源协议。欢迎交流与 Star ⭐️！ 
